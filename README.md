@@ -1,5 +1,7 @@
 # lyf 的第二次求助
 
+作者：Gao Huaze
+
 ## 一、这次轮到控制组了
 
 [前情提要：lyf 的求助](https://herkules.notion.site/Reading-Week-lyf-28ac04c2f00e80088b9fcede240d1986?source=copy_link)
